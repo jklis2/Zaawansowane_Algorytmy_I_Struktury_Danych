@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "knapsack": "node src/Knapsack.js",
-    "taskAllocation": "node src/TaskAllocation.js"
+    "taskAllocation": "node src/TaskAllocation.js",
+    "travellingSalesman": "node src/TravellingSalesman.js"
   },
   "keywords": [],
   "author": "",
