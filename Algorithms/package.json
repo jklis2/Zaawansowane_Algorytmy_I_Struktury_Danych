@@ -8,7 +8,8 @@
     "knapsack": "node src/Knapsack.js",
     "taskAllocation": "node src/TaskAllocation.js",
     "travellingSalesman": "node src/TravellingSalesman.js",
-    "geneticAlgorithm": "node src/GeneticAlgorithm.js"
+    "geneticAlgorithm": "node src/GeneticAlgorithm.js",
+    "rsaAlgorithm": "node src/RsaAlgorithm.js"
   },
   "keywords": [],
   "author": "",
